@@ -1,4 +1,4 @@
-# -SL002
+# ChinaNovles-SL002
 一个近未来的小说计划
 ChinaNovles-SL002。这是一个中国小说开源模板计划，为所有人提供一个思路。
 ChinaNovles-SL002库发布于2023.05.11，作者是XianWeiGP-R。
